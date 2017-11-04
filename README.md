@@ -8,3 +8,8 @@ economies
 structure
 ====================
 
+![](manuscript/resources/images/architecture-structure.png)
+
+license
+=====================
+standard MIT license
