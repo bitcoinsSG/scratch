@@ -6,7 +6,7 @@ a purely democratic, user centric, cryptocurrency network for developing economi
 
 
 
-![](manuscript/resources/images/architecture-structure.png)
+![](manuscript/resources/images/logo.png)
 
 # Name of the project
 > Additional information or tag line
