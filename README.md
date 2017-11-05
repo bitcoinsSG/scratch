@@ -4,7 +4,7 @@ a purely democratic, user centric, cryptocurrency network for developing economi
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="445" height="445" src="manuscript/resources/images/logo.png">
 </p>
 
 
