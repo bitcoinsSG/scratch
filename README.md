@@ -15,7 +15,7 @@ this repository forms a coupling with [access voting contract](https://github.co
 | [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity "zeppelin-solidity")    | >  1.3.0    | dev |
 
 
-## structure and concepts
+## main concepts
 
 | file        | puropse           | Cool  |
 | :------------- |:-------------| -----:|
