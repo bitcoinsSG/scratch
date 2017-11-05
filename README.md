@@ -2,7 +2,7 @@
   <img width="445" height="445" src="manuscript/resources/images/logo.png">
 </p>
 
-# access genesis contract (core) | access network
+# access genesis contract | access network | core
 > a purely democratic, user centric, cryptocurrency network for developing economies
 
 this repository forms a coupling with [access voting contract](https://github.com/ACXNetwork/GenesisContract "voting-acx-core") that collectively comprise of the core code base for the access network
