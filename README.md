@@ -1,14 +1,10 @@
-access genesis contract (agc)| access network (acx) 
-=====================
-a purely democratic, user centric, cryptocurrency network for developing economies.
-
-
 <p align="center">
   <img width="445" height="445" src="manuscript/resources/images/logo.png">
 </p>
 
+# access genesis contract | access netowrk
+> a purely democratic, user centric, cryptocurrency network for developing economies.
 
-![](manuscript/resources/images/logo.png)
 
 # Name of the project
 > Additional information or tag line
