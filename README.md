@@ -3,9 +3,19 @@
 </p>
 
 # access genesis contract | access network
-> a purely democratic, user centric, cryptocurrency network for developing economies.
+> a purely democratic, user centric, cryptocurrency network for developing economies
 
-this repository forms a coupling with [access voting contract](https://github.com/ACXNetwork/GenesisContract "voting-acx-core") that collectively comprise of the core code base for the access network.
+this repository forms a coupling with [access voting contract](https://github.com/ACXNetwork/GenesisContract "voting-acx-core") that collectively comprise of the core code base for the access network
+
+## technology
+| software      | version       | purpose  |
+| ------------- |:-------------:| -----:|
+| [ethereum](https://github.com/ethereum "ethereum")    | > 0.8.0 | prod |
+| [truffle](https://github.com/trufflesuite/truffle "truffle")    | >  4.0.1    | dev/prod |
+| [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity "zeppelin-solidity")    | >  1.3.0    | dev |
+
+
+## structure
 
 
 
