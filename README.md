@@ -18,7 +18,7 @@ this repository forms a coupling with [access voting contract](https://github.co
 ## structure and concepts
 
 | file        | puropse           | Cool  |
-| :-------------: |:-------------| -----:|
+| :------------- |:-------------| -----:|
 | accessCoin.sol      | core coin logic extending ERC20 functionality | $1600 |
 | tokenLaunchSale.sol     | logic for token launch/sale for bootstrapping network     |   $12 |
 | deployACX.sol | logic for initialization and deployment of code to testnet or mainnet | |
