@@ -15,12 +15,13 @@ this repository forms a coupling with [access voting contract](https://github.co
 | [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity "zeppelin-solidity")    | >  1.3.0    | dev |
 
 
-## structure
+## structure and concepts
 
-
-
-
-
+| file        | puropse           | Cool  |
+| :-------------: |:-------------| -----:|
+| accessCoin.sol      | core coin logic extending ERC20 functionality | $1600 |
+| tokenLaunchSale.sol     | logic for token launch/sale for bootstrapping network     |   $12 |
+| deployACX.sol | logic for initialization and deployment of code to testnet or mainnet | |
 
 
 basehello world up &
