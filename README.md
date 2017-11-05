@@ -2,18 +2,18 @@
   <img width="445" height="445" src="manuscript/resources/images/logo.png">
 </p>
 
-# access genesis contract | access netowrk
+# access genesis contract | access networkk
 > a purely democratic, user centric, cryptocurrency network for developing economies.
 
+this repository forms a coupling with [access voting contract](https://github.com/ACXNetwork/GenesisContract "voting-acx-core") that collectively comprise of the core code base for the access network.
 
-# Name of the project
-> Additional information or tag line
 
-A brief description of your project, what it is used for.
 
-## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
+
+
+
+basehello world up &
 running.
 
 ```shell
