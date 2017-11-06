@@ -15,7 +15,7 @@ this repository forms a coupling with [access voting contract](https://github.co
 | software      | version       | purpose  |
 | ------------- |:-------------:| -----:|
 | [ethereum](https://github.com/ethereum "ethereum")    | => 0.8.0 | prod |
-| [ethereumjs-testrpc]() |  => 6.0.1 | dev |
+| [ethereumjs-testrpc](https://github.com/trufflesuite/truffle) |  => 6.0.1 | dev |
 | [solidity](https://github.com/ethereum/solidity "solidity") | => 0.4.2 | dev, prod |
 | [nodejs](https://github.com/nodejs "nodejs")    | => 6.9.2 | dev, prod |
 | [truffle](https://github.com/trufflesuite/truffle "truffle")    | => 4.0.1    | dev, prod |
