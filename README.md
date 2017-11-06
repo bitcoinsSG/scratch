@@ -31,10 +31,6 @@ this repository forms a coupling with [access voting contract](https://github.co
 
 
 ## development
-basehello world up &
-running.
-
-sudo npm install -g rapidshift 
 
 ```shell
 commands here
