@@ -11,7 +11,7 @@
 this repository forms a coupling with [access voting contract](https://github.com/ACXNetwork/acx-voting-core "access voting contract") that collectively comprise of the core code base for the access network
 
 
-## technology
+### technology
 | software      | version       | purpose  |
 | ------------- |:-------------:| -----:|
 | [ethereum](https://github.com/ethereum "ethereum")    | => 0.8.0 | prod |
@@ -22,7 +22,7 @@ this repository forms a coupling with [access voting contract](https://github.co
 | [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity "zeppelin-solidity")    | =>  1.3.0    | dev |
 
 
-## main concepts
+### main concepts
 
 | file        | puropse           | Cool  |
 | :------------- |:-------------| -----:|
