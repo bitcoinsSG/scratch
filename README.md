@@ -89,9 +89,14 @@ packagemanager deploy your-project -s server.com -u username -p password
 
 And again you'd need to tell what the previous code actually does.
 
-## versioning and best practices
+## best practices and guidelines for developers
 
-we utilize [SemVer](http://semver.org/) for versioning, and sign each commit with author's gpg key
+- write comprehensive tests for all custom logic
+- comply with ethereum smart contract secuirty best practices and zeppelin standards
+- utilize [SemVer](http://semver.org/) for versioning
+- sign each commit with publicly available identifiable gpg key
+- tag releases and make easily comprehensible notes for each release
+
 
 ## configuration
 
