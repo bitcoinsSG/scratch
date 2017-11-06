@@ -38,13 +38,11 @@ commands here
 ```
 
 Here you should say what actually happens when you execute the code above.
-### built with
-List main libraries, frameworks used including versions (React, Angular etc...)
 
 ### prerequisites and installation
 
 ```shell
-git clone https://github.com/ACXNetwork/acx-genesis-core.git && cd acx-genesis-core
+git clone https://github.com/ACXNetwork/core-genesis-acx && cd core-genesis-acx
 npm install -g truffle
 npm install -g ethereumjs-testrpc
 npm install 
