@@ -91,11 +91,13 @@ And again you'd need to tell what the previous code actually does.
 
 ## best practices and guidelines for developers
 
+- utilize feature branches for new code, and submit pull requests to dev/non-master branch
+- fork, edit, and submit pull requests to the dev/non-master branch for any changes
 - write comprehensive tests for all custom logic
 - comply with ethereum smart contract secuirty best practices and zeppelin standards
 - utilize [SemVer](http://semver.org/) for versioning
-- sign each commit with publicly available identifiable gpg key
-- tag releases and make easily comprehensible notes for each release
+- sign each commit with publicly available and easily identifiable gpg key
+- tag releases and make readily comprehensible notes for each release
 
 
 ## configuration
