@@ -2,7 +2,7 @@
   <img width="445" height="445" src="manuscript/resources/images/logo.png">
 </p>
 
-# core | access genesis contract | access network  
+# core | access genesis contract | access network ( acx )
 > a purely democratic, user centric, cryptocurrency network for developing economies
 
 <pre>
