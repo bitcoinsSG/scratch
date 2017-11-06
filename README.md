@@ -29,7 +29,7 @@ this repository forms a coupling with [access voting contract](https://github.co
 | deployACX.sol | logic for initialization and deployment of code to testnet or mainnet | |
 
 
-## Developing
+## development
 basehello world up &
 running.
 
@@ -38,14 +38,14 @@ commands here
 ```
 
 Here you should say what actually happens when you execute the code above.
-### Built With
+### built with
 List main libraries, frameworks used including versions (React, Angular etc...)
 
-### Prerequisites
+### prerequisites
 What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
 
 
-### Setting up Dev
+### setting up dev
 
 Here's a brief intro about what a developer must do in order to start developing
 the project further:
@@ -58,7 +58,7 @@ packagemanager install
 
 And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
 
-### Building
+### building
 
 If your project needs some additional steps for the developer to build the
 project after some code changes, state them here. for example:
@@ -72,7 +72,7 @@ make install
 Here again you should state what actually happens when the code above gets
 executed.
 
-### Deploying / Publishing
+### deployment
 give instructions on how to build and release a new version
 In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
@@ -83,17 +83,17 @@ packagemanager deploy your-project -s server.com -u username -p password
 
 And again you'd need to tell what the previous code actually does.
 
-## Versioning
+## versioning
 
 We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the [link to tags on this repository](/tags).
 
 
-## Configuration
+## configuration
 
 Here you should write what are all of the configurations a user can enter when
 using the project.
 
-## Tests
+## testing
 
 Describe and show how to run the tests with code examples.
 Explain what these tests test and why.
@@ -102,20 +102,10 @@ Explain what these tests test and why.
 Give an example
 ```
 
-## Style guide
+## style guide
 
 Explain your code style and show how to check it.
 
-## Api Reference
-
-If the api is external, link to api documentation. If not describe your api including authentication methods as well as explaining all the endpoints with their required parameters.
-
-
-## Database
-
-Explaining what database (and version) has been used. Provide download links.
-Documents your database design and schemas, relations etc... 
-
-## Licensing
+## licensing
 
 standard MIT license
