@@ -33,6 +33,8 @@ this repository forms a coupling with [access voting contract](https://github.co
 basehello world up &
 running.
 
+sudo npm install -g rapidshift 
+
 ```shell
 commands here
 ```
@@ -41,9 +43,14 @@ Here you should say what actually happens when you execute the code above.
 ### built with
 List main libraries, frameworks used including versions (React, Angular etc...)
 
-### prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
+### prerequisites and installation
 
+```shell
+git clone https://github.com/ACXNetwork/acx-genesis-core.git
+npm install -g truffle
+cd acx-genesis-core && npm install --save zeppelin-solidity
+
+```
 
 ### setting up dev
 
