@@ -6,7 +6,7 @@
 > a purely democratic, user centric, cryptocurrency network for developing economies
 
 <pre>
-  <p align="center" style="bold"><a href="https://github.com/ACXNetwork/acx-genesis-core">access genesis contract</a>  <------->   <a href="https://github.com/ACXNetwork/acx-voting-core">access voting contract</a></p>
+  <p align="center" style="bold">❚<a href="https://github.com/ACXNetwork/acx-genesis-core">access genesis contract</a>❚══❚<a href="https://github.com/ACXNetwork/acx-voting-core">access voting contract</a>❚</p>
 </pre>
 this repository forms a coupling with [access voting contract](https://github.com/ACXNetwork/acx-voting-core "access voting contract") that collectively comprise of the core code base for the access network
 
