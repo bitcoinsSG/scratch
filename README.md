@@ -16,7 +16,7 @@ this repository forms a coupling with [access voting contract](https://github.co
 | ------------- |:-------------:| -----:|
 | [ethereum](https://github.com/ethereum "ethereum")    | > 0.8.0 | prod |
 | [nodejs](https://github.com/nodejs "nodejs")    | > 6.11.2 | dev |
-| [truffle](https://github.com/trufflesuite/truffle "truffle")    | >  4.0.1    | dev/prod |
+| [truffle](https://github.com/trufflesuite/truffle "truffle")    | > 4.0.1    | dev/prod |
 | [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity "zeppelin-solidity")    | >  1.3.0    | dev |
 
 
