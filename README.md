@@ -89,9 +89,8 @@ packagemanager deploy your-project -s server.com -u username -p password
 
 And again you'd need to tell what the previous code actually does.
 
-## best practices and guidelines for developers
+## guidelines and best practices
 
-- utilize feature branches for new code, and submit pull requests to dev/non-master branch
 - fork, edit, and submit pull requests to the dev/non-master branch for any changes
 - write comprehensive tests for all custom logic
 - comply with ethereum smart contract secuirty best practices and zeppelin standards
