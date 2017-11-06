@@ -25,6 +25,7 @@ this repository forms a coupling with [access voting contract](https://github.co
 | deployACX.sol | logic for initialization and deployment of code to testnet or mainnet | |
 
 
+## Developing
 basehello world up &
 running.
 
@@ -33,9 +34,6 @@ commands here
 ```
 
 Here you should say what actually happens when you execute the code above.
-
-## Developing
-
 ### Built With
 List main libraries, frameworks used including versions (React, Angular etc...)
 
