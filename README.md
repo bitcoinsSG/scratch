@@ -45,7 +45,8 @@ List main libraries, frameworks used including versions (React, Angular etc...)
 ```shell
 git clone https://github.com/ACXNetwork/acx-genesis-core.git
 npm install -g truffle
-cd acx-genesis-core && npm install --save zeppelin-solidity
+cd acx-genesis-core
+npm install --save zeppelin-solidity
 
 ```
 
