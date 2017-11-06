@@ -98,6 +98,10 @@ And again you'd need to tell what the previous code actually does.
 - sign each commit with publicly available and easily identifiable gpg key
 - tag releases and make readily comprehensible notes for each release
 
+## Documentation
+
+## Support
+
 
 ## configuration
 
