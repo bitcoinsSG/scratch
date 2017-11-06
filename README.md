@@ -2,7 +2,7 @@
   <img width="445" height="445" src="manuscript/resources/images/logo.png">
 </p>
 
-# access genesis contract | access network | core 
+# core | access genesis contract | access network  
 > a purely democratic, user centric, cryptocurrency network for developing economies
 
 <pre>
