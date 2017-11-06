@@ -47,7 +47,7 @@ List main libraries, frameworks used including versions (React, Angular etc...)
 git clone https://github.com/ACXNetwork/acx-genesis-core.git && cd acx-genesis-core
 npm install -g truffle
 npm install -g ethereumjs-testrpc
-npm install --save zeppelin-solidity
+npm install 
 
 ```
 
