@@ -89,10 +89,9 @@ packagemanager deploy your-project -s server.com -u username -p password
 
 And again you'd need to tell what the previous code actually does.
 
-## versioning
+## versioning and best practices
 
-We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the [link to tags on this repository](/tags).
-
+we utilize [SemVer](http://semver.org/) for versioning, and sign each commit with author's gpg key
 
 ## configuration
 
